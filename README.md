@@ -1,13 +1,2 @@
 # ColorSphere-A-Transfer-Learning-Approach-to-Image-Colorization-Excellence
-Image colorization is the process of assigning colors
-to a grayscale image, transforming it into a visually plausible
-and perceptually meaningful color image. This technique is vital
-for restoring historical photos, enhancing medical images, and
-improving the visual quality of old, damaged images. This paper
-develops an image colorization approach using the ECCV16
-and SIGGRAPH17 models, both of which leverage convolutional
-neural networks and transfer learning to achieve high-quality
-colorizations. By utilizing the LAB colorspace instead of RGB,
-the models achieve more realistic and vibrant colorization. This
-approach highlights the effectiveness of transfer learning and
-deep learning techniques in enhancing image colorization.
+Image colorization is the process of adding colors to grayscale images, transforming them into visually meaningful color representations. This technique is essential for restoring historical photos, enhancing medical imaging, and improving the visual quality of old or damaged pictures. In this paper, we implement an image colorization approach using the ECCV16 and SIGGRAPH17 models, both of which leverage convolutional neural networks and transfer learning to produce high-quality results. By working in the LAB colorspace instead of RGB, these models achieve more realistic and vibrant colorizations, demonstrating the effectiveness of deep learning in image colorization.
