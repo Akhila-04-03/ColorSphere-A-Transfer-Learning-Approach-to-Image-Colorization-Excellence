@@ -59,4 +59,7 @@ The L channel (lightness) is centered and scaled to ensure consistent brightness
 The A and B channels (color) are scaled to control color intensity and enhance color vibrancy.
 
 ### Contact
-For questions or feedback, please reach out at raveendranakhila629@gmail.com.
+For questions or feedback, feel free to reach out:
+
+Email: raveendranakhila629@gmail.com
+LinkedIn: Akhila Raveendran
