@@ -62,4 +62,5 @@ The A and B channels (color) are scaled to control color intensity and enhance c
 For questions or feedback, feel free to reach out:
 
 Email: raveendranakhila629@gmail.com
-LinkedIn: Akhila Raveendran
+
+LinkedIn: [Akhila Raveendran](https://www.linkedin.com/in/akhila-raveendran-pm/)
