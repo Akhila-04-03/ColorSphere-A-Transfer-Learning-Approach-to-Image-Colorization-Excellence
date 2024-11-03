@@ -12,11 +12,13 @@ This repository implements an image colorization approach using two deep learnin
 ### Setup
 1. Clone the repository and install required dependencies:
     bash
+   
     git clone https://github.com/richzhang/colorization.git
     pip install -r colorization/requirements.txt
     
-2. Add the cloned path to your system:
+3. Add the cloned path to your system:
     python
+   
     import sys
     sys.path.append('/path/to/colorization')
     
@@ -24,14 +26,18 @@ This repository implements an image colorization approach using two deep learnin
 ### Usage
 1. *Load Models*:
    python
+   
    import colorizers
+   
    colorizer_eccv16 = colorizers.eccv16().eval()
+   
    colorizer_siggraph17 = colorizers.siggraph17().eval()
    
 
-2. *Colorize Images*:
+3. *Colorize Images*:
    To colorize a grayscale image, use the following command:
    bash
+   
    python demo_release.py -i /path/to/your/image.jpg
    
    Replace /path/to/your/image.jpg with the path to your input image.
