@@ -1,6 +1,4 @@
 
-!git clone https://github.com/richzhang/colorization.git
-!pip install -r colorization/requirements.txt
 
 import sys
 sys.path.append('/content/colorization')
